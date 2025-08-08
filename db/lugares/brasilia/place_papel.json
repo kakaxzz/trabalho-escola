@@ -1,0 +1,215 @@
+[
+  {
+    "id": "ChIJbVfjVEaWpgARsIMO6Q-gau4",
+    "name": "BH Recycle Electronic Waste Recycling and Other scraps.",
+    "address": "Av. General David Sarnoff, 2690 - Cidade Industrial, Contagem - MG, 32210-110, Brazil",
+    "latitude": -19.9570892,
+    "longitude": -44.034969499999995,
+    "googleMapsUri": "https://maps.google.com/?cid=17179719718753174448",
+    "phone": "(31) 3063-0688",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-03-27T02:13:21.377Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-05-07T16:35:42.435Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-03-16T21:13:34.057Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana1@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-05-20T00:47:21.448Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-03-09T05:33:23.560Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJqYF6UFoxWpMRVC2OClCtSmk",
+    "name": "Capital Recicláveis: Reciclagem, Coleta Lixo Orgânico, Resíduos, Brasília DF",
+    "address": "SCIA q9, Conjunto 1 L, 1 - Cidade dos Automóveis, Brasília - DF, 71250-810, Brazil",
+    "latitude": -15.780830799999999,
+    "longitude": -47.9845171,
+    "googleMapsUri": "https://maps.google.com/?cid=7587067081545100628",
+    "phone": "(61) 3246-6068",
+    "rating": 4.5,
+    "comentarios": [
+      {
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-03-24T06:31:13.855Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana1@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-05-31T22:16:49.019Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJb8GB2P29pgARp2IBqEDII_0",
+    "name": "MG Recicla Reciclagem de Lixo Eletrônico",
+    "address": "Rua Sararé, 47 - Jardinópolis, Belo Horizonte - MG, 30512-010, Brazil",
+    "latitude": -19.9408104,
+    "longitude": -44.0015892,
+    "googleMapsUri": "https://maps.google.com/?cid=18240643095802765991",
+    "phone": "(31) 3565-5294",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-04-26T14:01:27.341Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJsSkhHgAjWpMRtypqrS81SZA",
+    "name": "Coleta de Recicláveis",
+    "address": "St. Hermida Dom Bosco - Lago Sul, Brasília - DF, Brazil",
+    "latitude": -15.803522699999998,
+    "longitude": -47.8062246,
+    "googleMapsUri": "https://maps.google.com/?cid=10396899693650651831",
+    "phone": "N/A",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-06-06T02:01:42.020Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-02-27T10:26:14.133Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana4@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-03-13T08:02:35.695Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-05-29T09:26:16.354Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJj3M6A7sxWpMRPBHWMP7tEF8",
+    "name": "Sia Recicla",
+    "address": "SIA Trecho 17 Rua 3, 860 - Guará, Brasília - DF, 71200-207, Brazil",
+    "latitude": -15.798486199999997,
+    "longitude": -47.9661864,
+    "googleMapsUri": "https://maps.google.com/?cid=6850236709227335996",
+    "phone": "(61) 99914-1212",
+    "rating": 4.1,
+    "comentarios": [
+      {
+        "comentario": "Excelente serviço!",
+        "data": "2025-03-25T09:01:40.294Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-04-01T20:05:12.636Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana7@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito bem organizado.",
+        "data": "2025-03-10T05:35:21.622Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-05-10T16:58:40.004Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro16@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Excelente serviço!",
+        "data": "2025-04-11T04:21:03.657Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  }
+]

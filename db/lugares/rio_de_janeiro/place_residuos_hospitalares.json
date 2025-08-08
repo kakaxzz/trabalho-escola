@@ -1,0 +1,371 @@
+[
+  {
+    "id": "ChIJPcCp1Kx-mQAR7gTDy_YCHOE",
+    "name": "Environmental Clean Serv Collection and Transport",
+    "address": "R. Paraopeba, 330 - Vila Sarapui, Duque de Caxias - RJ, 25051-290, Brazil",
+    "latitude": -22.864494000000004,
+    "longitude": -43.245043,
+    "googleMapsUri": "https://maps.google.com/?cid=16220843216885449966",
+    "phone": "3104-2992",
+    "rating": 3.1,
+    "comentarios": [
+      {
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-05-18T07:22:46.841Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-03-25T07:12:51.820Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana11@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJ7RmBT3dhmQARsdGAA32WLrA",
+    "name": "Coleta de Lixo Eletrônico sem custo",
+    "address": "R. Sen. Dantas, 23 - Centro, Rio de Janeiro - RJ, 20031-202, Brazil",
+    "latitude": -22.911495799999997,
+    "longitude": -43.176810499999995,
+    "googleMapsUri": "https://maps.google.com/?cid=12695249863277859249",
+    "phone": "(21) 98381-0591",
+    "rating": 4.5,
+    "comentarios": [
+      {
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-06-06T14:35:25.876Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-02-21T14:18:19.265Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Excelente serviço!",
+        "data": "2025-03-25T00:13:55.691Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana4@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJ7wUhSbndmwARKhpmfxo2rE4",
+    "name": "Ecológica Coleta e Destinação de Resíduos Químicos Ltda.",
+    "address": "Rua Octávio de Faria, 81 - sala 210 - Recreio dos Bandeirantes, Rio de Janeiro - RJ, 22795-415, Brazil",
+    "latitude": -23.017250999999998,
+    "longitude": -43.4577489,
+    "googleMapsUri": "https://maps.google.com/?cid=5668965518387059242",
+    "phone": "(21) 99721-7458",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Excelente serviço!",
+        "data": "2025-04-14T03:04:47.866Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-05-11T05:27:35.532Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana4@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Falta mais informações sobre os serviços.",
+        "data": "2025-06-01T01:41:33.836Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana9@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJKzfx5eB7mQAREY04-3M7Pcg",
+    "name": "RESIDUO ALL",
+    "address": "R. Felizardo Fortes, 324 - Ramos, Rio de Janeiro - RJ, 21031-160, Brazil",
+    "latitude": -22.841875599999998,
+    "longitude": -43.2548373,
+    "googleMapsUri": "https://maps.google.com/?cid=14428754150487002385",
+    "phone": "(21) 2260-5345",
+    "rating": 3.8,
+    "comentarios": [
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-05-14T21:28:20.084Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-03-17T12:08:47.102Z",
+        "user": {
+          "nome": "Fernanda",
+          "email": "fernanda10@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJHWsr2cF7mQARvORRce3hmog",
+    "name": "ColetAmbiental coletamos sem custos",
+    "address": "R. Sen. Dantas - Centro, Rio de Janeiro - RJ, 21240-330, Brazil",
+    "latitude": -22.9108488,
+    "longitude": -43.177166299999996,
+    "googleMapsUri": "https://maps.google.com/?cid=9843428345496331452",
+    "phone": "(21) 96930-9009",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-05-12T21:46:36.649Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro16@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-05-16T03:59:32.286Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-03-18T14:51:30.122Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-04-25T10:58:20.241Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJGZqfeSh9mQARR7f_GDEbmHU",
+    "name": "Solução Gerenciamento de Resíduos Sólidos Industriais",
+    "address": "R. Ferreira Câmara, 41 - Maria da Graça, Rio de Janeiro - RJ, 20785-470, Brazil",
+    "latitude": -22.8838807,
+    "longitude": -43.261330199999996,
+    "googleMapsUri": "https://maps.google.com/?cid=8473552596584347463",
+    "phone": "(21) 2595-1661",
+    "rating": 4.6,
+    "comentarios": [
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-02-26T12:13:52.908Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-05-01T14:03:14.262Z",
+        "user": {
+          "nome": "Fernanda",
+          "email": "fernanda10@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-02-24T16:45:35.306Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana5@gmail.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-05-25T04:48:02.997Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana4@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-06-04T02:13:39.619Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJ3eF_EIaZpgARXmOK6jjzvto",
+    "name": "CRBIOLOGIC - Coleta de Resíduos",
+    "address": "R. Cocáis, 555 - Esplanada, Belo Horizonte - MG, 30280-150, Brazil",
+    "latitude": -19.9032904,
+    "longitude": -43.901461399999995,
+    "googleMapsUri": "https://maps.google.com/?cid=15762303171621970782",
+    "phone": "(31) 99984-0162",
+    "rating": 4.1,
+    "comentarios": [
+      {
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-05-04T04:29:45.227Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-03-24T02:06:54.517Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-04-22T14:15:01.360Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-04-24T12:45:34.090Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-02-16T04:29:22.360Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJsbQ-qErrrAcRKV63rtSBkqQ",
+    "name": "Waste Coleta de Resíduos Hospitalares",
+    "address": "RUA VIA COLETORA, Conde - PB, 58322-000, Brazil",
+    "latitude": -7.2489215,
+    "longitude": -34.9363416,
+    "googleMapsUri": "https://maps.google.com/?cid=11858683519284239913",
+    "phone": "0800 800 8185",
+    "rating": 3.9,
+    "comentarios": [
+      {
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-03-08T10:33:09.478Z",
+        "user": {
+          "nome": "Fernanda",
+          "email": "fernanda10@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJOSk6SiF7mQARSJiCgOc7vns",
+    "name": "Coop Ceu Azul",
+    "address": "R. Isidro Rocha, 70 - Vigário Geral, Rio de Janeiro - RJ, 21241-180, Brazil",
+    "latitude": -22.806673099999998,
+    "longitude": -43.3149118,
+    "googleMapsUri": "https://maps.google.com/?cid=8916630177719687240",
+    "phone": "(21) 3474-2901",
+    "rating": 3.8,
+    "comentarios": [
+      {
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-02-27T22:16:38.964Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito bem organizado.",
+        "data": "2025-03-11T04:43:22.498Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-05-31T22:29:41.777Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Excelente serviço!",
+        "data": "2025-06-01T23:51:13.049Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  }
+]

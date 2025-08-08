@@ -1,0 +1,293 @@
+[
+  {
+    "id": "ChIJbVfjVEaWpgARsIMO6Q-gau4",
+    "name": "BH Recycle Electronic Waste Recycling and Other scraps.",
+    "address": "Av. General David Sarnoff, 2690 - Cidade Industrial, Contagem - MG, 32210-110, Brazil",
+    "latitude": -19.9570892,
+    "longitude": -44.034969499999995,
+    "googleMapsUri": "https://maps.google.com/?cid=17179719718753174448",
+    "phone": "(31) 3063-0688",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-06-03T02:02:08.912Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-03-07T14:50:33.343Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJb8GB2P29pgARp2IBqEDII_0",
+    "name": "MG Recicla Reciclagem de Lixo Eletrônico",
+    "address": "Rua Sararé, 47 - Jardinópolis, Belo Horizonte - MG, 30512-010, Brazil",
+    "latitude": -19.9408104,
+    "longitude": -44.0015892,
+    "googleMapsUri": "https://maps.google.com/?cid=18240643095802765991",
+    "phone": "(31) 3565-5294",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-04-25T00:18:05.173Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJqYF6UFoxWpMRVC2OClCtSmk",
+    "name": "Capital Recicláveis: Reciclagem, Coleta Lixo Orgânico, Resíduos, Brasília DF",
+    "address": "SCIA q9, Conjunto 1 L, 1 - Cidade dos Automóveis, Brasília - DF, 71250-810, Brazil",
+    "latitude": -15.780830799999999,
+    "longitude": -47.9845171,
+    "googleMapsUri": "https://maps.google.com/?cid=7587067081545100628",
+    "phone": "(61) 3246-6068",
+    "rating": 4.5,
+    "comentarios": [
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-05-11T03:18:35.583Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana4@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito bem organizado.",
+        "data": "2025-04-24T20:12:53.655Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJz7FNmT-3W5MRD3tOSuLp__I",
+    "name": "Lixo eletrônico Brasília e descarte de informática",
+    "address": "setor qnq 01 conjunto 10 casa 09 Brasil setor qnq - Ceilândia, Brasília - DF, 72270-110, Brazil",
+    "latitude": -15.8021241,
+    "longitude": -48.1405691,
+    "googleMapsUri": "https://maps.google.com/?cid=17509971034358315791",
+    "phone": "(61) 98513-9817",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Muito bem organizado.",
+        "data": "2025-03-09T00:13:09.098Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana4@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-04-14T03:14:27.698Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana9@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJj3M6A7sxWpMRPBHWMP7tEF8",
+    "name": "Sia Recicla",
+    "address": "SIA Trecho 17 Rua 3, 860 - Guará, Brasília - DF, 71200-207, Brazil",
+    "latitude": -15.798486199999997,
+    "longitude": -47.9661864,
+    "googleMapsUri": "https://maps.google.com/?cid=6850236709227335996",
+    "phone": "(61) 99914-1212",
+    "rating": 4.1,
+    "comentarios": [
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-05-12T13:20:31.359Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-05-04T23:33:12.973Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-05-23T02:09:08.764Z",
+        "user": {
+          "nome": "Fernanda",
+          "email": "fernanda10@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-06-03T18:14:03.002Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana1@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJzQSj97QxWpMRctm9xwVmELA",
+    "name": "3R Ambiental",
+    "address": "STRC TRECHO 04 CONJUNTO C LOTE 02 - SETOR DE CARGAS Trecho 4 - Guará, Brasília - DF, 71225-543, Brazil",
+    "latitude": -15.7924172,
+    "longitude": -47.9895662,
+    "googleMapsUri": "https://maps.google.com/?cid=12686752325314664818",
+    "phone": "(61) 3361-2037",
+    "rating": 4.8,
+    "comentarios": [
+      {
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-05-09T05:29:11.588Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-04-21T23:36:47.612Z",
+        "user": {
+          "nome": "João",
+          "email": "joão15@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJsZRD-ZUzWpMRUYFMrKDF_iU",
+    "name": "Coletamos seu lixo eletrônico em casa ou empresa pelo cataki",
+    "address": "Águas claras shopping - Águas Claras, Brasília - DF, 71936-250, Brazil",
+    "latitude": -15.834466999999998,
+    "longitude": -48.043344999999995,
+    "googleMapsUri": "https://maps.google.com/?cid=2737842917363974481",
+    "phone": "(61) 98417-0802",
+    "rating": 2,
+    "comentarios": [
+      {
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-04-17T18:02:47.280Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Excelente serviço!",
+        "data": "2025-02-18T01:22:21.304Z",
+        "user": {
+          "nome": "Fernanda",
+          "email": "fernanda10@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJIds8-zozWpMRYZVF792arIw",
+    "name": "Ecoponto para descarte de lixo eletrônico,informática e celulares",
+    "address": "RUA 04 CHÁCARA 09 CONDOMÍNIO TARUMÃ- VICENTE PIRES - St. Hab. Vicente Pires - Taguatinga, Brasília - DF, 72006-290, Brazil",
+    "latitude": -15.8128383,
+    "longitude": -48.013962799999995,
+    "googleMapsUri": "https://maps.google.com/?cid=10136647139296908641",
+    "phone": "(61) 98563-2239",
+    "rating": 2.7,
+    "comentarios": [
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-05-24T08:17:12.187Z",
+        "user": {
+          "nome": "Fernanda",
+          "email": "fernanda10@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-03-14T16:01:04.439Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana1@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJ-QwIh5XMW5MRriUOfKDECQw",
+    "name": "Associação Recicle a Vida",
+    "address": "St. M Qnm 28 - Ceilândia, Brasília - DF, 72210-282, Brazil",
+    "latitude": -15.8096236,
+    "longitude": -48.1004407,
+    "googleMapsUri": "https://maps.google.com/?cid=867440596800644526",
+    "phone": "(61) 3373-1810",
+    "rating": 4.6,
+    "comentarios": [
+      {
+        "comentario": "Funcionários atenciosos.",
+        "data": "2025-05-03T11:09:53.741Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJzSuwdro7WpMRNK0s3lHjwC8",
+    "name": "Instituto Nacional Pela Reciclagem",
+    "address": "SHCN CLN 308 BL D - Asa Norte, Brasília - DF, 70747-540, Brazil",
+    "latitude": -15.762928299999999,
+    "longitude": -47.889289399999996,
+    "googleMapsUri": "https://maps.google.com/?cid=3441000056070384948",
+    "phone": "(61) 99861-1516",
+    "rating": "N/A",
+    "comentarios": [
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-05-10T07:58:54.662Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  }
+]

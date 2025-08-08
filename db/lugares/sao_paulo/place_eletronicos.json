@@ -1,0 +1,791 @@
+[
+  {
+    "id": "ChIJAQApntxdzpQRv3ik8_33-EI",
+    "name": "Coleta de Lixo Eletrônico SP | Sucata Digital ® descarte correto São Paulo",
+    "address": "R. Templários, 192 - Vila Formosa, São Paulo - SP, 03357-000, Brazil",
+    "latitude": -23.5654215,
+    "longitude": -46.557198799999995,
+    "googleMapsUri": "https://maps.google.com/?cid=4825879670813915327",
+    "phone": "(11) 2604-2273",
+    "rating": 4.9,
+    "comentarios": [
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-04-29T00:56:18.949Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana8@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito bom, parabéns!",
+        "data": "2025-05-26T16:09:15.971Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana13@outlook.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-03-19T01:38:02.963Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana7@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Falta mais informações sobre os serviços.",
+        "data": "2025-06-10T00:14:01.033Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana9@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-03-28T22:57:11.737Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia14@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJGYeRclxWzpQRPSfOoN7gdZk",
+    "name": "Electronic Waste Disposal",
+    "address": "Av. Corifeu de Azevedo Marques, 1003 - Butantã, São Paulo - SP, 05581-000, Brazil",
+    "latitude": -23.573175799999998,
+    "longitude": -46.7242057,
+    "googleMapsUri": "https://maps.google.com/?cid=11057991706863347517",
+    "phone": "(11) 93218-5106",
+    "rating": 4.7,
+    "comentarios": [
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-04-24T13:05:14.290Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-06-05T19:47:43.470Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Excelente serviço!",
+        "data": "2025-03-23T09:18:37.950Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia14@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-04-15T09:53:21.683Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana11@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJvd0teKL9YGERs6YBBgQIOgw",
+    "name": "Descarte Eletrônico | Eletro Recicle",
+    "address": "Praça Albino Francisco de Figueiredo, 19 - Vila Fernandes, São Paulo - SP, 03433-040, Brazil",
+    "latitude": -23.5598834,
+    "longitude": -46.536742499999995,
+    "googleMapsUri": "https://maps.google.com/?cid=881025490478016179",
+    "phone": "(11) 99187-4137",
+    "rating": 4.9,
+    "comentarios": [
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-03-05T13:12:59.176Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJb8GB2P29pgARp2IBqEDII_0",
+    "name": "MG Recicla Reciclagem de Lixo Eletrônico",
+    "address": "Rua Sararé, 47 - Jardinópolis, Belo Horizonte - MG, 30512-010, Brazil",
+    "latitude": -19.9408104,
+    "longitude": -44.0015892,
+    "googleMapsUri": "https://maps.google.com/?cid=18240643095802765991",
+    "phone": "(31) 3565-5294",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-05-30T07:50:45.497Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana8@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-05-11T16:11:21.055Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana13@outlook.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-02-19T06:27:04.939Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro16@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-04-20T04:52:27.310Z",
+        "user": {
+          "nome": "Fernanda",
+          "email": "fernanda10@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJW0uohRJfzpQR9qavauKX0Hc",
+    "name": "SOS Lixo Eletrônico - Descarte Lixo Eletrônico - Coleta Lixo Eletrônico",
+    "address": "Av. Ver. Abel Ferreira, 1501 - Vila Reg. Feijó, São Paulo - SP, 03340-010, Brazil",
+    "latitude": -23.5612375,
+    "longitude": -46.564611199999995,
+    "googleMapsUri": "https://maps.google.com/?cid=8633567484377540342",
+    "phone": "(11) 95955-1148",
+    "rating": 4.8,
+    "comentarios": [
+      {
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-03-25T18:41:00.932Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana8@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-02-21T15:23:31.491Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-05-14T02:37:15.049Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia14@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-03-24T12:36:38.269Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-05-21T08:31:37.689Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro16@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJXzrE8txbzpQRq8y5ve9UBA8",
+    "name": "Electrotec Reciclagem ltda.",
+    "address": "R. Alberto I, 156 - Vila Vermelha, São Paulo - SP, 04298-060, Brazil",
+    "latitude": -23.6276816,
+    "longitude": -46.5998613,
+    "googleMapsUri": "https://maps.google.com/?cid=1082083199132748971",
+    "phone": "(11) 3564-6839",
+    "rating": 4.9,
+    "comentarios": [
+      {
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-04-06T01:37:17.015Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJKxVkPcpazpQRf2SS9xLJSqA",
+    "name": "Coleta de Lixo Eletrônico",
+    "address": "Av. Rodrigues Montemor, 565 - Cidade Domitila, São Paulo - SP, 04387-002, Brazil",
+    "latitude": -23.663867099999997,
+    "longitude": -46.6499575,
+    "googleMapsUri": "https://maps.google.com/?cid=11550265277645218943",
+    "phone": "(11) 95344-0293",
+    "rating": 4.9,
+    "comentarios": [
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-05-11T01:23:52.322Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana11@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJ6fyNNEsV2WMR7RlL3c2nhFI",
+    "name": "Descarte de Resíduo Eletrônico São Paulo| Coleta e Gestão responsável e-lixo",
+    "address": "R. Nossa Sra. das Dores, 238 - Vila Formosa, São Paulo - SP, 03367-040, Brazil",
+    "latitude": -23.5691465,
+    "longitude": -46.5351718,
+    "googleMapsUri": "https://maps.google.com/?cid=5946061910658718189",
+    "phone": "(11) 98748-4222",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-02-24T02:27:33.272Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-06-02T11:30:10.537Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana4@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-02-24T23:47:34.694Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro16@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-03-02T10:07:20.637Z",
+        "user": {
+          "nome": "João",
+          "email": "joão15@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-04-04T08:17:00.641Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana7@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJv5jfA_pezpQR19Vqm9sOaYE",
+    "name": "Eco Computers Ltd.",
+    "address": "Av. Celso Garcia, 5505 - Tatuapé, São Paulo - SP, 03063-000, Brazil",
+    "latitude": -23.531558800000003,
+    "longitude": -46.5597813,
+    "googleMapsUri": "https://maps.google.com/?cid=9325000839815419351",
+    "phone": "(11) 96218-9825",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-04-03T20:28:22.720Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-02-18T03:35:56.860Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-02-28T03:50:58.359Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-03-17T07:27:12.116Z",
+        "user": {
+          "nome": "João",
+          "email": "joão15@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJvXfgOxFdzpQRdeUvM2vNHvw",
+    "name": "Recicla Digital",
+    "address": "Rua Orlando Calisto, 687 - Parque Independencia, São Paulo - SP, 03236-000, Brazil",
+    "latitude": -23.5948153,
+    "longitude": -46.5553927,
+    "googleMapsUri": "https://maps.google.com/?cid=18167183807163131253",
+    "phone": "(11) 3473-2737",
+    "rating": 3.5,
+    "comentarios": [
+      {
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-02-18T02:09:05.963Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-03-05T05:29:28.410Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro16@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJXwgcRjxWzpQRvNnrsplcAT0",
+    "name": "Centro de Descarte e Reúso de Resíduos de Informática - CEDIR",
+    "address": "Tv. das Nações, 396 - Butantã, São Paulo - SP, 05508-020, Brazil",
+    "latitude": -23.5558017,
+    "longitude": -46.7284705,
+    "googleMapsUri": "https://maps.google.com/?cid=4395896526491867580",
+    "phone": "(11) 3091-8238",
+    "rating": 4.4,
+    "comentarios": [
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-06-07T17:37:50.050Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJ4Xe_Mwn3zpQR2i3p3uuBgfk",
+    "name": "Projeto Reciclar 100% do Lixo Domestico",
+    "address": "R. Vaud, 205 - Lauzane Paulista, São Paulo - SP, 02443-060, Brazil",
+    "latitude": -23.470904500000003,
+    "longitude": -46.649077999999996,
+    "googleMapsUri": "https://maps.google.com/?cid=17978794037496851930",
+    "phone": "(11) 97752-2043",
+    "rating": 4.9,
+    "comentarios": [
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-04-26T14:33:51.536Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-06-08T01:20:45.865Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana8@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJ0wH2foeVpgARP2OMZuRC5wo",
+    "name": "Coletar Reciclagem de Eletrônicos",
+    "address": "R. Cel. Docha, 118 - Inconfidentes, Contagem - MG, 32340-260, Brazil",
+    "latitude": -19.9600366,
+    "longitude": -44.03767510000001,
+    "googleMapsUri": "https://maps.google.com/?cid=785670208739894079",
+    "phone": "(31) 99948-8586",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-04-21T12:02:52.460Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana11@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito bem organizado.",
+        "data": "2025-03-23T19:28:21.372Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana11@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito bom, parabéns!",
+        "data": "2025-03-19T04:13:10.090Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana13@outlook.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-05-21T10:40:12.915Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-02-17T14:37:25.949Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJFXgNWfdjzpQRLQguTiSbO80",
+    "name": "Ecodigital-sp",
+    "address": "Av. Cásper Líbero, 538 - Centro Histórico, São Paulo - SP, 01033-001, Brazil",
+    "latitude": -23.536802,
+    "longitude": -46.63550600000001,
+    "googleMapsUri": "https://maps.google.com/?cid=14788584381633923117",
+    "phone": "(11) 98725-0494",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-02-27T13:50:40.174Z",
+        "user": {
+          "nome": "João",
+          "email": "joão15@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJeanC_eP3zpQRNT3KNhKesa0",
+    "name": "Coopermiti - Lixo Eletrônico",
+    "address": "R. João Rudge, 366 - Casa Verde Baixa, São Paulo - SP, 02513-020, Brazil",
+    "latitude": -23.513118,
+    "longitude": -46.656126799999996,
+    "googleMapsUri": "https://maps.google.com/?cid=12515958640505142581",
+    "phone": "(11) 3666-0849",
+    "rating": 4.5,
+    "comentarios": [
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-05-02T16:18:35.363Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana7@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Falta mais informações sobre os serviços.",
+        "data": "2025-06-07T19:13:02.191Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana9@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Excelente serviço!",
+        "data": "2025-04-26T16:09:38.859Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro16@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-05-31T17:59:53.902Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-04-23T12:41:20.257Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJ2QkAhs_5zpQRTN8r8qM2htk",
+    "name": "lixo eletronico reciclo info sales nv",
+    "address": "R. Otávio de Moura, 63 - Vila Carolina, São Paulo - SP, 02724-000, Brazil",
+    "latitude": -23.4994049,
+    "longitude": -46.6817333,
+    "googleMapsUri": "https://maps.google.com/?cid=15674275630880120652",
+    "phone": "(11) 93145-2164",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-03-01T13:08:30.517Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana4@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-06-10T01:01:55.726Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana7@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-04-19T04:34:31.172Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana5@gmail.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-04-16T19:09:10.070Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana13@outlook.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJsyFDfv5hzpQRYrsSbdNeH70",
+    "name": "MBS Resíduos Eletrônicos & Comércio de Sucatas em geral",
+    "address": "Rua Campo das Pitangueiras, 170 - Jardim Sao Nicolau, São Paulo - SP, 03685-010, Brazil",
+    "latitude": -23.5258209,
+    "longitude": -46.4766146,
+    "googleMapsUri": "https://maps.google.com/?cid=13627715259607464802",
+    "phone": "(11) 98364-9095",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-05-26T21:10:13.329Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-04-16T17:17:08.709Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia14@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-02-15T22:50:41.116Z",
+        "user": {
+          "nome": "Fernanda",
+          "email": "fernanda10@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-04-27T01:30:43.813Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana1@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJTcYOvPZUzpQRBZDBKZNSCG4",
+    "name": "SAR DO BRASIL - Reciclagem de Lixo Eletrônico em SP",
+    "address": "R. Zioudu Benedito Romanini, 25 - Jardim Tres Marias, Taboão da Serra - SP, 06790-050, Brazil",
+    "latitude": -23.615863599999997,
+    "longitude": -46.7904597,
+    "googleMapsUri": "https://maps.google.com/?cid=7928677935999979525",
+    "phone": "(11) 4385-8663",
+    "rating": 4.5,
+    "comentarios": [
+      {
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-03-12T10:15:52.668Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana11@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Funcionários atenciosos.",
+        "data": "2025-04-01T01:07:11.073Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia14@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJYxQK__xdzpQRkmA4Re0DpZE",
+    "name": "Descarte Lixo Eletrônico",
+    "address": "Rua das Campânulas - Vila Alpina, São Paulo - SP, 03204-010, Brazil",
+    "latitude": -23.595218499999998,
+    "longitude": -46.5609391,
+    "googleMapsUri": "https://maps.google.com/?cid=10494798824260264082",
+    "phone": "(11) 98751-0797",
+    "rating": 3,
+    "comentarios": [
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-03-26T14:34:15.908Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana5@gmail.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-03-30T04:08:06.680Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana5@gmail.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-03-02T21:53:44.041Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana7@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJz8Yyd8VpzpQRy5Murr0Wgtw",
+    "name": "Sucata Digital - ABCD E REGIÃO - DESCARTE DE LIXO ELETRÔNICO",
+    "address": "Av. São Paulo, 479 - Cidade São Jorge, Santo André - SP, 09111-410, Brazil",
+    "latitude": -23.6684152,
+    "longitude": -46.4881731,
+    "googleMapsUri": "https://maps.google.com/?cid=15889287439243449291",
+    "phone": "(11) 95768-2368",
+    "rating": 4.2,
+    "comentarios": [
+      {
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-04-11T16:02:00.401Z",
+        "user": {
+          "nome": "João",
+          "email": "joão15@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-04-29T23:46:15.901Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  }
+]

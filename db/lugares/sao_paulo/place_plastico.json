@@ -1,0 +1,779 @@
+[
+  {
+    "id": "ChIJx3lwTyxazpQROMFvdTTuhI8",
+    "name": "Ecoponto Vila Mariana",
+    "address": "R. Afonso Celso, 147 - Vila Mariana, São Paulo - SP, 04119-002, Brazil",
+    "latitude": -23.592918299999997,
+    "longitude": -46.6349124,
+    "googleMapsUri": "https://maps.google.com/?cid=10341652553425469752",
+    "phone": "N/A",
+    "rating": 4.4,
+    "comentarios": [
+      {
+        "comentario": "Excelente serviço!",
+        "data": "2025-03-21T01:32:57.059Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana8@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-05-02T17:48:16.972Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-05-06T13:12:37.896Z",
+        "user": {
+          "nome": "Guilherme",
+          "email": "guilherme2@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJ4Xe_Mwn3zpQR2i3p3uuBgfk",
+    "name": "Projeto Reciclar 100% do Lixo Domestico",
+    "address": "R. Vaud, 205 - Lauzane Paulista, São Paulo - SP, 02443-060, Brazil",
+    "latitude": -23.470904500000003,
+    "longitude": -46.649077999999996,
+    "googleMapsUri": "https://maps.google.com/?cid=17978794037496851930",
+    "phone": "(11) 97752-2043",
+    "rating": 4.9,
+    "comentarios": [
+      {
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-02-18T10:13:59.189Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana8@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-04-26T12:05:28.080Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro16@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Falta mais informações sobre os serviços.",
+        "data": "2025-02-24T00:18:33.631Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana7@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJbVfjVEaWpgARsIMO6Q-gau4",
+    "name": "BH Recycle Electronic Waste Recycling and Other scraps.",
+    "address": "Av. General David Sarnoff, 2690 - Cidade Industrial, Contagem - MG, 32210-110, Brazil",
+    "latitude": -19.9570892,
+    "longitude": -44.034969499999995,
+    "googleMapsUri": "https://maps.google.com/?cid=17179719718753174448",
+    "phone": "(31) 3063-0688",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-04-24T05:57:49.435Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito bom, parabéns!",
+        "data": "2025-04-04T15:17:30.219Z",
+        "user": {
+          "nome": "Guilherme",
+          "email": "guilherme2@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-03-19T05:18:11.346Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana13@outlook.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-04-24T18:02:26.957Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-03-15T09:09:23.284Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJb8GB2P29pgARp2IBqEDII_0",
+    "name": "MG Recicla Reciclagem de Lixo Eletrônico",
+    "address": "Rua Sararé, 47 - Jardinópolis, Belo Horizonte - MG, 30512-010, Brazil",
+    "latitude": -19.9408104,
+    "longitude": -44.0015892,
+    "googleMapsUri": "https://maps.google.com/?cid=18240643095802765991",
+    "phone": "(31) 3565-5294",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-02-19T11:00:00.747Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana7@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-03-20T22:08:26.473Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-05-31T07:12:09.258Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro16@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJAQApntxdzpQRv3ik8_33-EI",
+    "name": "Coleta de Lixo Eletrônico SP | Sucata Digital ® descarte correto São Paulo",
+    "address": "R. Templários, 192 - Vila Formosa, São Paulo - SP, 03357-000, Brazil",
+    "latitude": -23.5654215,
+    "longitude": -46.557198799999995,
+    "googleMapsUri": "https://maps.google.com/?cid=4825879670813915327",
+    "phone": "(11) 2604-2273",
+    "rating": 4.9,
+    "comentarios": [
+      {
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-03-16T06:57:44.558Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-04-17T19:28:57.504Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Falta mais informações sobre os serviços.",
+        "data": "2025-03-15T23:35:11.152Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro16@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-05-22T22:55:31.647Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJmW0PtZlXzpQRVLrM7S8-vA4",
+    "name": "Ecoponto Vila Madalena Corpus",
+    "address": "R. Girassol, 21 - Vila Madalena, São Paulo - SP, 05433-000, Brazil",
+    "latitude": -23.5581903,
+    "longitude": -46.687346500000004,
+    "googleMapsUri": "https://maps.google.com/?cid=1061791987726596692",
+    "phone": "N/A",
+    "rating": 4.4,
+    "comentarios": [
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-04-24T02:16:44.974Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-04-05T18:02:57.759Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia14@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "id": 3,
+        "comentario": "teste",
+        "user": {
+          "foto": "/assets/img/user.png"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJbb6pp-1RzpQRjZBEQBF5vek",
+    "name": "Ecoponto Cidade Saudável",
+    "address": "R. Ptolomeu, 869 - Vila Socorro, São Paulo - SP, 04762-040, Brazil",
+    "latitude": -23.6623766,
+    "longitude": -46.7223413,
+    "googleMapsUri": "https://maps.google.com/?cid=16842751296435163277",
+    "phone": "N/A",
+    "rating": 4.7,
+    "comentarios": [
+      {
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-05-25T20:31:50.337Z",
+        "user": {
+          "nome": "João",
+          "email": "joão15@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJvd0teKL9YGERs6YBBgQIOgw",
+    "name": "Descarte Eletrônico | Eletro Recicle",
+    "address": "Praça Albino Francisco de Figueiredo, 19 - Vila Fernandes, São Paulo - SP, 03433-040, Brazil",
+    "latitude": -23.5598834,
+    "longitude": -46.536742499999995,
+    "googleMapsUri": "https://maps.google.com/?cid=881025490478016179",
+    "phone": "(11) 99187-4137",
+    "rating": 4.9,
+    "comentarios": [
+      {
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-05-26T22:50:43.795Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-03-30T19:25:16.663Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana11@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-04-08T18:53:54.932Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-03-07T12:37:45.387Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro16@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJ96pyISRZzpQRkymUSYC95Wo",
+    "name": "Ecoponto Bresser",
+    "address": "Praça Giuseppe Cesari, 54 - Brás, São Paulo - SP, 03053-020, Brazil",
+    "latitude": -23.543787899999998,
+    "longitude": -46.606181299999996,
+    "googleMapsUri": "https://maps.google.com/?cid=7702771096375011731",
+    "phone": "N/A",
+    "rating": 4.4,
+    "comentarios": [
+      {
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-05-28T15:00:56.902Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana8@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-04-06T23:32:41.297Z",
+        "user": {
+          "nome": "Fernanda",
+          "email": "fernanda10@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJdSg2oV5ezpQR5xc7PGbdKbs",
+    "name": "Recrie Ambiental",
+    "address": "R. Loanda, 03 - Penha de França, São Paulo - SP, 03630-060, Brazil",
+    "latitude": -23.5342071,
+    "longitude": -46.550236999999996,
+    "googleMapsUri": "https://maps.google.com/?cid=13486553990304569319",
+    "phone": "(11) 2091-8886",
+    "rating": 3.8,
+    "comentarios": [
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-05-18T16:31:59.760Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-04-02T23:27:41.880Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-03-03T00:10:15.161Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-04-17T19:12:13.755Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana9@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJKxVkPcpazpQRf2SS9xLJSqA",
+    "name": "Coleta de Lixo Eletrônico",
+    "address": "Av. Rodrigues Montemor, 565 - Cidade Domitila, São Paulo - SP, 04387-002, Brazil",
+    "latitude": -23.663867099999997,
+    "longitude": -46.6499575,
+    "googleMapsUri": "https://maps.google.com/?cid=11550265277645218943",
+    "phone": "(11) 95344-0293",
+    "rating": 4.9,
+    "comentarios": [
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-04-30T18:49:31.044Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia14@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito bom, parabéns!",
+        "data": "2025-05-18T13:07:31.704Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-05-03T02:22:46.804Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana9@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJmd4D_tdezpQRCa8mci8GBYA",
+    "name": "Ecoponto Tatuapé",
+    "address": "Av. Salim Farah Maluf, 179 - Tatuapé, São Paulo - SP, 03076-000, Brazil",
+    "latitude": -23.5299194,
+    "longitude": -46.5830236,
+    "googleMapsUri": "https://maps.google.com/?cid=9224786212586696457",
+    "phone": "0800 777 7156",
+    "rating": 4.5,
+    "comentarios": [
+      {
+        "comentario": "Falta mais informações sobre os serviços.",
+        "data": "2025-04-02T09:26:28.085Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-05-06T22:56:10.058Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-02-20T08:20:26.129Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-05-02T10:55:58.741Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana13@outlook.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito bom, parabéns!",
+        "data": "2025-04-05T14:59:51.921Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJ3Xu8iihkzpQRNjbKtxsiaiM",
+    "name": "Ecoponto Corinthians",
+    "address": "R. Ana Perena, 155 - Conj. Res. José Bonifácio, São Paulo - SP, 08253-230, Brazil",
+    "latitude": -23.547969199999997,
+    "longitude": -46.4371351,
+    "googleMapsUri": "https://maps.google.com/?cid=2551889641301751350",
+    "phone": "N/A",
+    "rating": 4.5,
+    "comentarios": [
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-04-10T18:08:38.009Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro16@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJ6-DkZchbzpQRQSXcdOPl1_g",
+    "name": "Ecoponto Santa Cruz",
+    "address": "R. Santa Cruz, 1452 - Vila Mariana, São Paulo - SP, 04122-001, Brazil",
+    "latitude": -23.5996354,
+    "longitude": -46.623348199999995,
+    "googleMapsUri": "https://maps.google.com/?cid=17931053206479840577",
+    "phone": "N/A",
+    "rating": 4.2,
+    "comentarios": [
+      {
+        "comentario": "Falta mais informações sobre os serviços.",
+        "data": "2025-05-23T15:24:48.611Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana1@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-05-06T20:58:39.113Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-04-04T19:16:35.307Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana9@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJXwgcRjxWzpQRvNnrsplcAT0",
+    "name": "Centro de Descarte e Reúso de Resíduos de Informática - CEDIR",
+    "address": "Tv. das Nações, 396 - Butantã, São Paulo - SP, 05508-020, Brazil",
+    "latitude": -23.5558017,
+    "longitude": -46.7284705,
+    "googleMapsUri": "https://maps.google.com/?cid=4395896526491867580",
+    "phone": "(11) 3091-8238",
+    "rating": 4.4,
+    "comentarios": [
+      {
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-04-09T21:41:48.348Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana5@gmail.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito bem organizado.",
+        "data": "2025-05-13T23:52:49.873Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana5@gmail.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJV4RkHFJdzpQRCxBOJgbPe3o",
+    "name": "Ecoponto Anhaia Mello",
+    "address": "R. da Prece, 313 - Vila Prudente, São Paulo - SP, 03156-210, Brazil",
+    "latitude": -23.5826145,
+    "longitude": -46.571073399999996,
+    "googleMapsUri": "https://maps.google.com/?cid=8825875520082022411",
+    "phone": "N/A",
+    "rating": 4.4,
+    "comentarios": [
+      {
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-04-11T12:53:50.222Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana9@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-05-10T21:08:45.587Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana8@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-04-06T06:42:11.792Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana7@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJ1S-PU2xYzpQRpdLfCNRobjg",
+    "name": "Ecoponto Barra Funda",
+    "address": "R. Cônego Vicente Miguel Marino, 22 - Barra Funda, São Paulo - SP, 01135-020, Brazil",
+    "latitude": -23.527129499999997,
+    "longitude": -46.6485431,
+    "googleMapsUri": "https://maps.google.com/?cid=4066302773453378213",
+    "phone": "N/A",
+    "rating": 4.1,
+    "comentarios": [
+      {
+        "comentario": "Funcionários atenciosos.",
+        "data": "2025-05-19T03:37:53.054Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Funcionários atenciosos.",
+        "data": "2025-04-30T09:59:11.329Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana7@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-04-10T17:02:52.888Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro16@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJV06QoHJdzpQR2SSSyJa_UM4",
+    "name": "Ecoponto São Lucas",
+    "address": "R. Florêncio Sanches, 307 - Vila Prudente, São Paulo - SP, 03266-200, Brazil",
+    "latitude": -23.599094299999997,
+    "longitude": -46.5344651,
+    "googleMapsUri": "https://maps.google.com/?cid=14866593024281027801",
+    "phone": "N/A",
+    "rating": 4.5,
+    "comentarios": [
+      {
+        "comentario": "Funcionários atenciosos.",
+        "data": "2025-05-05T06:49:34.515Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia14@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito bem organizado.",
+        "data": "2025-02-24T01:48:49.519Z",
+        "user": {
+          "nome": "Guilherme",
+          "email": "guilherme2@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Funcionários atenciosos.",
+        "data": "2025-06-04T12:43:58.279Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana13@outlook.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-04-08T22:52:18.748Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJrZLImIL5zpQRBF-6v0FT3xE",
+    "name": "Ecoponto Vila Jaguará",
+    "address": "R. Agrestina, 189 - Jaguará, São Paulo - SP, 05117-100, Brazil",
+    "latitude": -23.5165316,
+    "longitude": -46.7415363,
+    "googleMapsUri": "https://maps.google.com/?cid=1287839560305893124",
+    "phone": "(11) 98853-2831",
+    "rating": 4.4,
+    "comentarios": [
+      {
+        "comentario": "Falta mais informações sobre os serviços.",
+        "data": "2025-02-19T07:12:29.935Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-06-03T11:19:45.022Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "id": 3,
+        "comentario": "teste",
+        "data": "2025-06-11T01:24:59.012Z",
+        "user": {
+          "foto": "/assets/img/user.png"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJGYeRclxWzpQRPSfOoN7gdZk",
+    "name": "Electronic Waste Disposal",
+    "address": "Av. Corifeu de Azevedo Marques, 1003 - Butantã, São Paulo - SP, 05581-000, Brazil",
+    "latitude": -23.573175799999998,
+    "longitude": -46.7242057,
+    "googleMapsUri": "https://maps.google.com/?cid=11057991706863347517",
+    "phone": "(11) 93218-5106",
+    "rating": 4.7,
+    "comentarios": [
+      {
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-05-24T16:44:52.355Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana4@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  }
+]
